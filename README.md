@@ -94,7 +94,7 @@
 </ul>
 </ul>           
 				<ul type="circle">
-					<td>&#128206;<ins>InMemory klasörü içindekiler veritabanıyla bir bağlantısı olmayıp sadace başlangıç için test amacıyla oluşturulmuştur.</ins> <br>
+					<td>&#128206;<ins>The InMemory Folder is not a connection to the contents database, but was created for testing purposes only for startup.</ins> <br>
 					<td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/DataAccess/Concrete/InMemory">In Memory</a><br>
 					<ul>
 				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Concrete/InMemory/InMemoryDal.cs">InMemory.cs</a><br>
@@ -398,7 +398,7 @@
 
 ## ConsoleUI
 
-<b>Yazılan operasyonların kontrolü için bu katman kullanılmıştır. Bu katmanda test edilen operasyonlara <td>&#128279;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/ConsoleUI/Program.cs">buradan</a> ulaşabilirsiniz. Alt kısımda örnek olarak bazı operasyonların sonuçlarını görmektesiniz.
+<b>This layer is used to control written operations. Operations tested in this layer<td>&#128279;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/ConsoleUI/Program.cs">here you can reach</a>. At the bottom, you can see the results of some operations as an example.
 	
 ![](https://user-images.githubusercontent.com/77468985/108639973-525bae80-74a8-11eb-91e3-240005af63cc.png)
 	
@@ -409,7 +409,7 @@
 ![](https://user-images.githubusercontent.com/77468985/108639532-10316d80-74a6-11eb-8686-ac8dc1a716d9.png)
 ##
 
-<b>Projeye WebAPI katmanının eklenmesiyle beraber ConsoleUI katmanı yeterli olmadığı için test aracı olarak Postman kullanılmaya başlanılmıştır. Alt kısımda örnek olarak bazı operasyonlara ait test sonuçlarını görmektesiniz.<br>
+<b>With the addition of the WebAPI layer to the project, Postman was used as a test tool, as the ConsoleUI layer was not sufficient. At the bottom, you can see the test results of some operations as an example.<br>
 <br>
 <b><em>-<ins>Cars<br></ins>
 <br>
