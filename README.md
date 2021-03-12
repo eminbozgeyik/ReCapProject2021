@@ -30,21 +30,21 @@
 <b>This layer is created for database objects. In the Concrete folder, there are only 'classes 'created for tables, while in the DTOs folder section, there are 'classes' created to combine properties in different tables. You can review the details using the links at the bottom.
 <ul type="disc">
 	<tr>
-        <td>&#128194; </tr><a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Entities/Concrete">Concrete</a>
+        <td>&#128194; </tr><a href="https://github.com/eminbozgeyik/ReCapProject2021/tree/master/Entities/Concrete">Concrete</a>
                                 <ul type="circle">
-					<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Entities/Concrete/Brand.cs">Brands.cs</a><br>
-					<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Entities/Concrete/Car.cs">Car.cs</a><br>
-					<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Entities/Concrete/CarImage.cs">CarImage.cs</a><br>
-					<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Entities/Concrete/Color.cs">Color.cs</a><br>
-					<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Entities/Concrete/Customer.cs">Customer.cs</a><br>
-					<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Entities/Concrete/Rental.cs">Rental.cs</a><br>
+					<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject2021/blob/master/Entities/Concrete/Brand.cs">Brands.cs</a><br>
+					<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Entities/Concrete/Car.cs">Car.cs</a><br>
+					<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Entities/Concrete/CarImage.cs">CarImage.cs</a><br>
+					<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Entities/Concrete/Color.cs">Color.cs</a><br>
+					<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Entities/Concrete/Customer.cs">Customer.cs</a><br>
+					<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Entities/Concrete/Rental.cs">Rental.cs</a><br>
 				</ul>
 			</li>
-			<td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Entities/DTOs">DTOs</a><br>
+			<td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Entities/DTOs">DTOs</a><br>
 				<ul type="circle">
-					<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Entities/DTOs/CarDetailDto.cs">CarDetailDto.cs</a><br>
-					<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Entities/DTOs/UserForLoginDto.cs">UserForLoginDto.cs</a><br>
-					<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Entities/DTOs/UserForRegisterDto.cs">UserForRegisterDto.cs</a><br>
+					<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Entities/DTOs/CarDetailDto.cs">CarDetailDto.cs</a><br>
+					<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Entities/DTOs/UserForLoginDto.cs">UserForLoginDto.cs</a><br>
+					<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Entities/DTOs/UserForRegisterDto.cs">UserForRegisterDto.cs</a><br>
 				</ul>
 			
 </ul>		
@@ -65,39 +65,39 @@
 
 <ul type="disc">
 	<tr>
-        <td>&#128194; </tr><a href="https://github.com/hilal-bstn/ReCapProject/tree/master/DataAccess/Abstract"> Abstract</a>
+        <td>&#128194; </tr><a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/DataAccess/Abstract"> Abstract</a>
                                 <ul type="circle">
-					<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Abstract/IBrandDal.cs">IBrandDal.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Abstract/ICarDal.cs">ICarDal.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Abstract/ICarImageDal.cs">ICarImageDal.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Abstract/IColorDal.cs">IColorDal.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Abstract/ICustomerDal.cs">ICustomerDal.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Abstract/IRentalDal.cs">IRentDal.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Abstract/IUserDal.cs">IUserDal.cs</a><br>
+					<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Abstract/IBrandDal.cs">IBrandDal.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Abstract/ICarDal.cs">ICarDal.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Abstract/ICarImageDal.cs">ICarImageDal.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Abstract/IColorDal.cs">IColorDal.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Abstract/ICustomerDal.cs">ICustomerDal.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Abstract/IRentalDal.cs">IRentDal.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Abstract/IUserDal.cs">IUserDal.cs</a><br>
 </ul>
 </ul>
 <ul type="disc">
 	<tr>
-        <td>&#128194; </tr><a href="https://github.com/hilal-bstn/ReCapProject/tree/master/DataAccess/Concrete"> Concrete</a>
+        <td>&#128194; </tr><a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/DataAccess/Concrete"> Concrete</a>
                                 <ul type="circle">
-					<td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/DataAccess/Concrete/Ef">Entitiy Framework</a><br>
+					<td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/DataAccess/Concrete/Ef">Entitiy Framework</a><br>
 					<ul>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Concrete/Ef/CarsContext.cs">CarsContext.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Concrete/Ef/EfBrandDal.cs">EfBrandDal.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Concrete/Ef/EfCarDal.cs">EfCarDal.cs</a><br>
-			        <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Concrete/Ef/EfCarImageDal.cs">EfCarImageDal.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Concrete/Ef/EfColorDal.cs">EfColorDal.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Concrete/Ef/EfCustomerDal.cs">EfCustomerDal.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Concrete/Ef/EfCarDal.cs">EfCarDal.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Concrete/Ef/EfRentalDal.cs">EfRentalDal.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Concrete/Ef/EfUserDal.cs">EfUserDal.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Concrete/Ef/CarsContext.cs">CarsContext.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Concrete/Ef/EfBrandDal.cs">EfBrandDal.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Concrete/Ef/EfCarDal.cs">EfCarDal.cs</a><br>
+			        <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Concrete/Ef/EfCarImageDal.cs">EfCarImageDal.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Concrete/Ef/EfColorDal.cs">EfColorDal.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Concrete/Ef/EfCustomerDal.cs">EfCustomerDal.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Concrete/Ef/EfCarDal.cs">EfCarDal.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Concrete/Ef/EfRentalDal.cs">EfRentalDal.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Concrete/Ef/EfUserDal.cs">EfUserDal.cs</a><br>
 </ul>
 </ul>           
 				<ul type="circle">
 					<td>&#128206;<ins>InMemory klasörü içindekiler veritabanıyla bir bağlantısı olmayıp sadace başlangıç için test amacıyla oluşturulmuştur.</ins> <br>
-					<td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/DataAccess/Concrete/InMemory">In Memory</a><br>
+					<td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/DataAccess/Concrete/InMemory">In Memory</a><br>
 					<ul>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/DataAccess/Concrete/InMemory/InMemoryDal.cs">InMemory.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/DataAccess/Concrete/InMemory/InMemoryDal.cs">InMemory.cs</a><br>
 	
 </ul>
 </ul>
@@ -123,56 +123,56 @@
 
 <ul type="disc">
 	<tr>
-        <td>&#128194; </tr><a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Business/Abstract"> Abstract</a>
+        <td>&#128194; </tr><a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Business/Abstract"> Abstract</a>
                                 <ul type="circle">
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Abstract/IAuthService.cs">IAuthService.cs</a><br>
-		<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Abstract/IBrandService.cs">IBrandService.cs</a><br>	
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Abstract/ICarService.cs">ICarService.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Abstract/ICarImageService.cs">ICarImageService.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Abstract/IColorService.cs">IColorService.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Abstract/ICustomerService.cs">ICustomerService.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Abstract/IRentalService.cs">IRentalService.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Abstract/IUserService.cs">IUserService.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Abstract/IAuthService.cs">IAuthService.cs</a><br>
+		<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Abstract/IBrandService.cs">IBrandService.cs</a><br>	
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Abstract/ICarService.cs">ICarService.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Abstract/ICarImageService.cs">ICarImageService.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Abstract/IColorService.cs">IColorService.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Abstract/ICustomerService.cs">ICustomerService.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Abstract/IRentalService.cs">IRentalService.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Abstract/IUserService.cs">IUserService.cs</a><br>
 </ul>
 </ul>
 <ul type="disc">
 	<tr>
-        <td>&#128194; </tr><a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Business/BusinessAspect"> Business Aspect</a>
+        <td>&#128194; </tr><a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Business/BusinessAspect"> Business Aspect</a>
              <ul>
-		                <td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Business/BusinessAspect/Autofac">Autofac</a><br>
+		                <td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Business/BusinessAspect/Autofac">Autofac</a><br>
 				<ul>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/BusinessAspect/Autofac/SecuredOperation.cs">SecuredOperation.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/BusinessAspect/Autofac/SecuredOperation.cs">SecuredOperation.cs</a><br>
 </ul>	
 </ul>
 </ul>
 </ul>
 <ul type="disc">
 	<tr>
-        <td>&#128194; </tr><a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Business/Concrete"> Concrete</a>
+        <td>&#128194; </tr><a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Business/Concrete"> Concrete</a>
              <ul>
-		                <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Concrete/AuthManager.cs">AuthManager.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Concrete/BrandManager.cs">BrandManager.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Concrete/CarManager.cs">CarManager.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Concrete/CarImageManager.cs">CarImageManager.cs</a><br>	
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Concrete/ColorManager.cs">ColorManager.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Concrete/CustomerManager.cs">CustomerManager.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Concrete/RentalManager.cs">RentalManager.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Concrete/UserManager.cs">UserManager.cs</a><br>
+		                <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Concrete/AuthManager.cs">AuthManager.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Concrete/BrandManager.cs">BrandManager.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Concrete/CarManager.cs">CarManager.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Concrete/CarImageManager.cs">CarImageManager.cs</a><br>	
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Concrete/ColorManager.cs">ColorManager.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Concrete/CustomerManager.cs">CustomerManager.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Concrete/RentalManager.cs">RentalManager.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Concrete/UserManager.cs">UserManager.cs</a><br>
 </ul>
 </ul>
 				<ul type="circle">
-					<td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Business/Constants">Constans</a><br>
+					<td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Business/Constants">Constans</a><br>
 					<ul>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/Constants/Messages.cs">Messages.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/Constants/Messages.cs">Messages.cs</a><br>
 	
 </ul>
 </ul>
                                 <ul type="circle">
-					<td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Business/DependencyResolvers">Dependency Resolvers</a><br>
+					<td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Business/DependencyResolvers">Dependency Resolvers</a><br>
 					<ul>
-				<td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Business/DependencyResolvers/Autofac">Autofac</a><br>
+				<td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Business/DependencyResolvers/Autofac">Autofac</a><br>
 					<ul>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/DependencyResolvers/Autofac/AutofacBusinessModule.cs">AutofacBusinessModule.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/DependencyResolvers/Autofac/AutofacBusinessModule.cs">AutofacBusinessModule.cs</a><br>
 				
 </ul>
 					
@@ -180,17 +180,17 @@
 </ul>
 </ul>
                                 <ul type="circle">
-					<td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Business/ValidationRules">Validation Rules</a><br>
+					<td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Business/ValidationRules">Validation Rules</a><br>
 					<ul>
-				<td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Business/ValidationRules/FluentValidation">Fluent Validation</a><br>
+				<td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Business/ValidationRules/FluentValidation">Fluent Validation</a><br>
 					<ul>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/ValidationRules/FluentValidation/BrandValidator.cs">BrandValidator.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/ValidationRules/FluentValidation/CarValidator.cs">CarValidator.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/ValidationRules/FluentValidation/CarImageValidator.cs">CarImageValidator.cs</a><br>	
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/ValidationRules/FluentValidation/ColorValidator.cs">ColorValidator.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/ValidationRules/FluentValidation/CustomerValidator.cs">CustomerValidator.cs</a><br>
-			        <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/ValidationRules/FluentValidation/RentalValidator.cs">RentalValidator.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Business/ValidationRules/FluentValidation/UserValidator.cs">UserValidator.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/ValidationRules/FluentValidation/BrandValidator.cs">BrandValidator.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/ValidationRules/FluentValidation/CarValidator.cs">CarValidator.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/ValidationRules/FluentValidation/CarImageValidator.cs">CarImageValidator.cs</a><br>	
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/ValidationRules/FluentValidation/ColorValidator.cs">ColorValidator.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/ValidationRules/FluentValidation/CustomerValidator.cs">CustomerValidator.cs</a><br>
+			        <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/ValidationRules/FluentValidation/RentalValidator.cs">RentalValidator.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Business/ValidationRules/FluentValidation/UserValidator.cs">UserValidator.cs</a><br>
 				
 </ul>
 					
@@ -218,11 +218,11 @@
 	<tr>
         <td>&#128194; </tr><a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/Aspects">Aspects</a>
                                 <ul type="circle">
-					 <td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/Aspects/Autofac">Autofac</a><br>
+					 <td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/Aspects/Autofac">Autofac</a><br>
 					<ul type="circle">
-					 <td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/Aspects/Autofac/Validation">Validation</a><br>	 
+					 <td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/Aspects/Autofac/Validation">Validation</a><br>	 
 				<ul type="circle">	 
-		<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Aspects/Autofac/Validation/ValidationAspect.cs">ValidationAspect.cs</a><br>
+		<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Aspects/Autofac/Validation/ValidationAspect.cs">ValidationAspect.cs</a><br>
 				
 </ul>	
 </ul>
@@ -230,42 +230,42 @@
 </ul>
 <ul type="disc">
 	<tr>
-        <td>&#128194; </tr><a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/CrossCuttingConcerns">Cross Cutting Concerns</a>
+        <td>&#128194; </tr><a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/CrossCuttingConcerns">Cross Cutting Concerns</a>
                                 <ul type="circle">
-					 <td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/CrossCuttingConcerns/Validation">Validation</a><br>
+					 <td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/CrossCuttingConcerns/Validation">Validation</a><br>
 				<ul type="circle">	 
-		<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/CrossCuttingConcerns/Validation/ValidationTool.cs">ValidationTool.cs</a><br>
+		<td>&#x1F4C4;<a href="https://github.com/eminbozgeyikReCapProject/blob/master/Core/CrossCuttingConcerns/Validation/ValidationTool.cs">ValidationTool.cs</a><br>
 					</ul>
 						 </ul></ul>
 
 <ul type="disc">
 	<tr>
-        <td>&#128194; </tr><a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/DataAccess">Data Access</a>
+        <td>&#128194; </tr><a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/DataAccess">Data Access</a>
                                 <ul type="circle">
-					 <td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/DataAccess/EntitiyFramework">Entity Framework</a><br>
+					 <td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/DataAccess/EntitiyFramework">Entity Framework</a><br>
 				<ul type="circle">	 
-		<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/DataAccess/EntitiyFramework/EfEntityRepositoryBase.cs">EfEntityRepositoryBase.cs</a><br>
+		<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/DataAccess/EntitiyFramework/EfEntityRepositoryBase.cs">EfEntityRepositoryBase.cs</a><br>
 					</ul>
 			</li>
-			<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/DataAccess/IEntityRepository.cs">IEntitiyRepository.cs</a>
+			<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/DataAccess/IEntityRepository.cs">IEntitiyRepository.cs</a>
 				</ul>
 				
 </ul>	
 	
 <ul type="disc">
 	<tr>
-        <td>&#128194; </tr><a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/Entities">Entities</a>
+        <td>&#128194; </tr><a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/Entities">Entities</a>
                                 <ul type="circle">
 	<tr>
-        <td>&#128194; </tr><a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/Entities/Concrete">Concrete</a>
+        <td>&#128194; </tr><a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/Entities/Concrete">Concrete</a>
                                 <ul type="circle">
-			                 <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Entities/Concrete/OperationClaim.cs">OperationClaim.cs</a><br>
-					 <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Entities/Concrete/User.cs">User.cs</a><br>
-                                   <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Entities/Concrete/UserOperationClaim.cs">UserOperationClaim.cs</a><br>
+			                 <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Entities/Concrete/OperationClaim.cs">OperationClaim.cs</a><br>
+					 <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Entities/Concrete/User.cs">User.cs</a><br>
+                                   <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Entities/Concrete/UserOperationClaim.cs">UserOperationClaim.cs</a><br>
 		
 </ul>
-					 <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Entities/IDto.cs">IDTO</a><br>
-					 <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Entities/IEntity.cs">IEntity</a><br>
+					 <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Entities/IDto.cs">IDTO</a><br>
+					 <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Entities/IEntity.cs">IEntity</a><br>
                                    
 		
 </ul>
@@ -273,40 +273,40 @@
 </ul>
 <ul type="disc">
 	<tr>
-        <td>&#128194; </tr><a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/Extensions">Extensions</a>
+        <td>&#128194; </tr><a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/Extensions">Extensions</a>
                                 <ul type="circle">
-					 <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Extensions/ClaimExtensions.cs">ClaimExtensions.cs</a><br>
-					<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Extensions/ClaimsPrincipalExtensions.cs">ClaimsPrincipalExtensions.cs</a><br>
+					 <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Extensions/ClaimExtensions.cs">ClaimExtensions.cs</a><br>
+					<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Extensions/ClaimsPrincipalExtensions.cs">ClaimsPrincipalExtensions.cs</a><br>
 				</ul>
 				
 </ul>	
 <ul type="disc">
 	<tr>
-        <td>&#128194; </tr><a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/Utilities">Utilities</a><br>
+        <td>&#128194; </tr><a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/Utilities">Utilities</a><br>
 	<ul type="circle">
-					 <td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/Utilities/Business">Business</a><br>
+					 <td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/Utilities/Business">Business</a><br>
 						 <ul type="circle">
-					 <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Business/BusinessRules.cs">BusinessRules.cs</a><br>
+					 <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Business/BusinessRules.cs">BusinessRules.cs</a><br>
 </ul>
 </ul>
 	<ul type="circle">
-					 <td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/Utilities/FileHelper">FileHelper</a><br>
+					 <td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/Utilities/FileHelper">FileHelper</a><br>
 						 <ul type="circle">
-					 <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/FileHelper/FileHelper.cs">FileHelper.cs</a><br>
+					 <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/FileHelper/FileHelper.cs">FileHelper.cs</a><br>
 </ul>
 </ul>
 <ul type="circle">
-					 <td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/Utilities/IOC">IOC</a><br>
+					 <td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/Utilities/IOC">IOC</a><br>
 						 <ul type="circle">
-					 <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/IOC/ServiceTool.cs">ServiceTool.cs</a><br>
+					 <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/IOC/ServiceTool.cs">ServiceTool.cs</a><br>
 </ul>
 </ul>
 	<ul type="circle">
-					 <td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Interceptors">Interceptors</a><br>
+					 <td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Interceptors">Interceptors</a><br>
 						 <ul type="circle">
-					 <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Interceptors/AspectInterceptorSelector.cs">AspectInterceptorSelector.cs</a><br>
-						 <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Interceptors/MethodInterception.cs">MethodInterception.cs</a><br>
-							 <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Interceptors/MethodInterceptionBaseAttribute.cs">MethodInterceptionBaseAttribute.cs</a><br>
+					 <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Interceptors/AspectInterceptorSelector.cs">AspectInterceptorSelector.cs</a><br>
+						 <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Interceptors/MethodInterception.cs">MethodInterception.cs</a><br>
+							 <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Interceptors/MethodInterceptionBaseAttribute.cs">MethodInterceptionBaseAttribute.cs</a><br>
 						  
 						
 						
@@ -314,43 +314,43 @@
 </ul>
 </ul>
                                 <ul type="circle">
-					 <td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/Utilities/Results">Results</a><br>
+					 <td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/Utilities/Results">Results</a><br>
 						 <ul type="circle">
-					 <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Results/DataResult.cs">DataResult.cs</a><br>
-						 <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Results/ErrorDataResult.cs">ErrorDataResult.cs</a><br>
-							 <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Results/ErrorResult.cs">ErrorResult.cs</a><br>
-						  <td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Results/IDataResult.cs">IDataResult.cs</a><br>
-						<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Results/IResult.cs">IResult.cs</a><br>	  
-							<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Results/Result.cs">Result.cs</a><br>
-								<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Results/SuccessDataResult.cs">SuccessDataResult.cs</a><br>
-							<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Results/SuccessResult.cs">SuccessResult.cs</a><br>
+					 <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Results/DataResult.cs">DataResult.cs</a><br>
+						 <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Results/ErrorDataResult.cs">ErrorDataResult.cs</a><br>
+							 <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Results/ErrorResult.cs">ErrorResult.cs</a><br>
+						  <td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Results/IDataResult.cs">IDataResult.cs</a><br>
+						<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Results/IResult.cs">IResult.cs</a><br>	  
+							<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Results/Result.cs">Result.cs</a><br>
+								<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Results/SuccessDataResult.cs">SuccessDataResult.cs</a><br>
+							<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Results/SuccessResult.cs">SuccessResult.cs</a><br>
 						
 							
 </ul>
 </ul>
 	<ul type="disc">
 	<tr>
-        <td>&#128194; </tr><a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/Utilities/Security">Security</a>
+        <td>&#128194; </tr><a href="https://github.com/eminbozgeyikReCapProject/tree/master/Core/Utilities/Security">Security</a>
                                 <ul type="circle">
-					 <td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/Utilities/Security/Encryption">Encryption</a><br>
+					 <td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/Utilities/Security/Encryption">Encryption</a><br>
 				<ul type="circle">	 
-		<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Security/Encryption/SecurityKeyHelper.cs">SecurityKeyHelper.cs</a><br>
-			<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Security/Encryption/SigningCredentialsHelper.cs">SigningCredentialsHelper.cs</a><br>
+		<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Security/Encryption/SecurityKeyHelper.cs">SecurityKeyHelper.cs</a><br>
+			<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Security/Encryption/SigningCredentialsHelper.cs">SigningCredentialsHelper.cs</a><br>
 					</ul>
 						 </ul>
 	 <ul type="circle">
-					 <td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/Utilities/Security/Hashing">Hashing</a><br>
+					 <td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/Utilities/Security/Hashing">Hashing</a><br>
 				<ul type="circle">	 
-		<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Security/Hashing/HashingHelper.cs">HashingHelper.cs</a><br>
+		<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Security/Hashing/HashingHelper.cs">HashingHelper.cs</a><br>
 					</ul>
 						 </ul>
 	<ul type="circle">
-					 <td>&#128194;<a href="https://github.com/hilal-bstn/ReCapProject/tree/master/Core/Utilities/Security/JWT">JWT</a><br>
+					 <td>&#128194;<a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/Core/Utilities/Security/JWT">JWT</a><br>
 				<ul type="circle">	 
-		<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Security/JWT/AccessToken.cs">AccessToken.cs</a><br>
-		<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Security/JWT/ITokenHelper.cs">ITokenHelper.cs</a><br>
-		<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Security/JWT/JwtHelper.cs">JWTHelper.cs</a><br>
-		<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/Core/Utilities/Security/JWT/TokenOptions.cs">TokenOptions.cs</a><br>
+		<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Security/JWT/AccessToken.cs">AccessToken.cs</a><br>
+		<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Security/JWT/ITokenHelper.cs">ITokenHelper.cs</a><br>
+		<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Security/JWT/JwtHelper.cs">JWTHelper.cs</a><br>
+		<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/Core/Utilities/Security/JWT/TokenOptions.cs">TokenOptions.cs</a><br>
 					</ul>
 						 </ul>
 	
@@ -370,23 +370,23 @@
 </ul>
 <ul type="disc">
 	<tr>
-        <td>&#128194; </tr><a href="https://github.com/hilal-bstn/ReCapProject/tree/master/WebAPI/Controllers"> Controllers</a>
+        <td>&#128194; </tr><a href="https://github.com/eminbozgeyik/ReCapProject/tree/master/WebAPI/Controllers"> Controllers</a>
                                 <ul type="circle">
-					<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/WebAPI/Controllers/AuthController.cs">AuthController.cs</a><br>
-					<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/WebAPI/Controllers/BrandsController.cs">BrandsController.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/WebAPI/Controllers/CarsController.cs">CarsController.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/WebAPI/Controllers/CarImagesController.cs">CarImagesController.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/WebAPI/Controllers/ColorsController.cs">ColorsController.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/WebAPI/Controllers/CustomersController.cs">CustomersController.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/WebAPI/Controllers/RentalsController.cs">RentalsController.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/WebAPI/Controllers/UsersController.cs">UsersController.cs</a><br>
+					<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/WebAPI/Controllers/AuthController.cs">AuthController.cs</a><br>
+					<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/WebAPI/Controllers/BrandsController.cs">BrandsController.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/WebAPI/Controllers/CarsController.cs">CarsController.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/WebAPI/Controllers/CarImagesController.cs">CarImagesController.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/WebAPI/Controllers/ColorsController.cs">ColorsController.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/WebAPI/Controllers/CustomersController.cs">CustomersController.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/WebAPI/Controllers/RentalsController.cs">RentalsController.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/WebAPI/Controllers/UsersController.cs">UsersController.cs</a><br>
 </ul>
 </ul>
 <ul type="disc">
 	<tr>
-        <td>&#x1F4C4; </tr><a href="https://github.com/hilal-bstn/ReCapProject/blob/master/WebAPI/Program.cs"> Program.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/WebAPI/Startup.cs">Startup.cs</a><br>
-				<td>&#x1F4C4;<a href="https://github.com/hilal-bstn/ReCapProject/blob/master/WebAPI/WeatherForecast.cs">WeatherForecast.cs</a><br>
+        <td>&#x1F4C4; </tr><a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/WebAPI/Program.cs"> Program.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/WebAPI/Startup.cs">Startup.cs</a><br>
+				<td>&#x1F4C4;<a href="https://github.com/eminbozgeyik/ReCapProject/blob/master/WebAPI/WeatherForecast.cs">WeatherForecast.cs</a><br>
 				
 </ul>
 			
