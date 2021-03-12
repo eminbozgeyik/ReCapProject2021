@@ -1,6 +1,6 @@
 # ReCapProject
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fesgmarketingcoolproducts.com%2Fitem%2Fcar-rental-logo%2F211922&psig=AOvVaw3nEeKgHKywRYnBhStNy5Rh&ust=1615631553785000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjlh9vGqu8CFQAAAAAdAAAAABAD) 
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2F65575193%2Fstock-illustration-vector-template-of-car-rental.html&psig=AOvVaw3nEeKgHKywRYnBhStNy5Rh&ust=1615631553785000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjlh9vGqu8CFQAAAAAdAAAAABAJ) 
 #
 
 <b>ReCapProject is a car rental project that belongs to the C# programming language, adhering to SOLID principles and with an N-layer architecture structure; it is still under development.<br>
