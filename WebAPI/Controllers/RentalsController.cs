@@ -21,14 +21,16 @@ namespace WebAPI.Controllers
         }
         [HttpGet("getall")]
         public IActionResult GetAll()
-        { var result = _rentalService.GetAll();
+        {
+            var result = _rentalService.GetAll();
             if (result.Success)
             { return Ok(result.Data); }
             return BadRequest(result);
         }
         [HttpPost("add")]
         public IActionResult Add(Rental rental)
-        { var result = _rentalService.Add(rental);
+        {
+            var result = _rentalService.Add(rental);
             if (result.Success)
             { return Ok(result.Message); }
             return BadRequest(result);
@@ -41,6 +43,13 @@ namespace WebAPI.Controllers
             { return Ok(result.Message); }
             return BadRequest(result.Message);
         }
-
+        [HttpGet("getrentaldetails")]
+        public IActionResult GetRentalDetails()
+        {
+            var result = _rentalService.GetRentalDetails();
+            if (result.Success)
+            { return Ok(result); }
+            return BadRequest(result);
+        }
     }
 }

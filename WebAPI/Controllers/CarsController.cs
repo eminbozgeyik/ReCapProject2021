@@ -18,16 +18,16 @@ namespace WebAPI.Controllers
         public CarsController(ICarService carService, IWebHostEnvironment webHostEnvironment)
         {
             _carService = carService;
-            
+
         }
         [HttpGet("getall")]
         public IActionResult GetAll()
         {
             var result = _carService.GetAll();
-            if(result.Success)
-            { return Ok(result);  }
+            if (result.Success)
+            { return Ok(result); }
             return BadRequest(result);
-        
+
         }
         [HttpGet("getbyid")]
         public IActionResult GetById(int id)
@@ -43,13 +43,13 @@ namespace WebAPI.Controllers
         {
             var result = _carService.GetCarDetails();
             if (result.Success)
-            { return Ok(result.Data); }
+            { return Ok(result); }
             return BadRequest(result);
 
         }
 
         [HttpGet("getcarsbymodelyear")]
-        public IActionResult GetCarsByModelYear(int year=2018)
+        public IActionResult GetCarsByModelYear(int year = 2018)
         {
             var result = _carService.GetCarsByModelYear(year);
             if (result.Success)

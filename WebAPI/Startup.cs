@@ -27,8 +27,8 @@ namespace WebAPI
 {
     public class Startup
     {
-        
-        
+
+
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -38,7 +38,7 @@ namespace WebAPI
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
-        {  
+        {
             services.AddControllers();
 
             //services.AddSingleton<ICarService, CarManager>();//Autofac kurulmadan önce
@@ -58,7 +58,8 @@ namespace WebAPI
 
             //services.AddSingleton<ICustomerService, CustomerManager>();
             //services.AddSingleton<ICustomerDal, EfCustomerDal>();
-            
+
+            services.AddCors();
 
             var tokenOptions = Configuration.GetSection("TokenOptions").Get<TokenOptions>();
 
@@ -89,6 +90,8 @@ namespace WebAPI
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseCors(builder => builder.WithOrigins("http://localhost:54112").AllowAnyHeader());
 
             app.UseHttpsRedirection();
 
