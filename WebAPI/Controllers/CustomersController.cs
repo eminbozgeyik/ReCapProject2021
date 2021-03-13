@@ -21,16 +21,14 @@ namespace WebAPI.Controllers
         }
         [HttpGet("getall")]
         public IActionResult GetAll()
-        {
-            var result = _customerService.GetAll();
+        { var result = _customerService.GetAll();
             if (result.Success)
             { return Ok(result.Data); }
             return BadRequest(result.Message);
         }
         [HttpPost("add")]
         public IActionResult Add(Customer customer)
-        {
-            var result = _customerService.Add(customer);
+        { var result = _customerService.Add(customer);
             if (result.Success)
             { return Ok(result); }
             return BadRequest(result);

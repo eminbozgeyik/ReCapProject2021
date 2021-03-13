@@ -66,7 +66,7 @@ namespace WebAPI.Controllers
             {
                 if (result.Data.Count == 0)
                 {
-                    file.Add(File(FileHelper.Get(filePath, "default.png"), "image/png"));
+                  file.Add(File(FileHelper.Get(filePath, "default.png"), "image/png"));
                 }
                 else
                 {
@@ -77,8 +77,9 @@ namespace WebAPI.Controllers
             }
 
             return BadRequest(result.Message);
-
+            
         }
-    }
+        }
 
-}
+    }
+  

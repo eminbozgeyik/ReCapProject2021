@@ -21,16 +21,14 @@ namespace WebAPI.Controllers
         }
         [HttpGet("getall")]
         public IActionResult GetAll()
-        {
-            var result = _rentalService.GetAll();
+        { var result = _rentalService.GetAll();
             if (result.Success)
             { return Ok(result.Data); }
             return BadRequest(result);
         }
         [HttpPost("add")]
         public IActionResult Add(Rental rental)
-        {
-            var result = _rentalService.Add(rental);
+        { var result = _rentalService.Add(rental);
             if (result.Success)
             { return Ok(result.Message); }
             return BadRequest(result);
